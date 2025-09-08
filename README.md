@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Hugo Gravito
 
-### 🎚️ Freelance Audio Engineer | 🎨 Learning GitHub & WordPress Block Theme Development
-
+### 🎚️ WordPress Block Theme Developer | Intern at Lightspeed | 20+ Years in Pro Audio & Technology
 ---
 
 ## 👨‍💻 About Me
-- Extensive background as a **freelance Audio Engineer** specializing in live events  
+- Extensive background as a **freelance Audio Engineer** specializing in live events & installations  
 - Currently developing skills in **GitHub** for version control and collaboration  
 - Exploring **WordPress block theme development** and full site editing  
 - Expanding knowledge in **PHP, CSS, and JavaScript** within the WordPress ecosystem  
